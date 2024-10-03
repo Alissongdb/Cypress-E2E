@@ -1,2 +1,2 @@
-#Automação de testes E2E em CYPRESS
+# Testes automatizados utilizando Cypress
 Em andamento
