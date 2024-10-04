@@ -1,2 +1,3 @@
 # Testes automatizados utilizando Cypress
-Em andamento
+Automação do https://automationpratice.com.br/
+# Testes de Cadastro, Login e Compra
